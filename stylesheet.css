@@ -31,7 +31,7 @@ body {
     margin-bottom: 100px;
 }
 
-.banner a {
+a {
     text-decoration: none;
     color: aliceblue;
     background: linear-gradient(brown, rgb(232, 58, 58));
@@ -40,6 +40,25 @@ body {
 }
 
 
-.banner a:hover {
+a:hover {
     color: rgb(27, 26, 25);
+}
+
+.text-boxes h1 {
+    font-size: 50px;
+
+}
+
+.text-boxes p {
+    font-size: 20px;
+}
+
+.text-boxes {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.text-boxes ul {
+    list-style: none;
+    display: inline-flex;
 }
