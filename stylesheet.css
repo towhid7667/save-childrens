@@ -195,7 +195,7 @@ a:hover {
 .first-part {
     width: 20%;
     margin: 20px;
-    padding: 30px;
+    padding: 20px;
     border-radius: 5px;
     background-color: #ffe7be;
     box-shadow: 1px 1px #ffbc7a;
@@ -206,7 +206,7 @@ a:hover {
 .second-part {
     width: 20%;
     margin: 20px;
-    padding: 30px;
+    padding: 20px;
     border-radius: 5px;
     background-color: #fccae5;
     box-shadow: 1px 1px #ffbde6;
@@ -215,7 +215,7 @@ a:hover {
 .third-part {
     width: 20%;
     margin: 20px;
-    padding: 30px;
+    padding: 20px;
     border-radius: 5px;
     background-color: #f1ceff;
     box-shadow: 1px 1px #eec1da;
