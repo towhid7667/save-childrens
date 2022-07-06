@@ -169,11 +169,120 @@ a:hover {
 
 
 
+
+
+.Image-blog {
+    margin-top: 50px;
+
+}
+
+.Image-blog h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.blog-part {
+    display: inline-flex;
+    justify-content: center;
+}
+
+.blog-part img {
+    height: 200px;
+    width: 300px;
+
+}
+
+.first-part {
+    width: 20%;
+    margin: 20px;
+    padding: 30px;
+    border-radius: 5px;
+    background-color: #ffe7be;
+    box-shadow: 1px 1px #ffbc7a;
+}
+
+
+
+.second-part {
+    width: 20%;
+    margin: 20px;
+    padding: 30px;
+    border-radius: 5px;
+    background-color: #fccae5;
+    box-shadow: 1px 1px #ffbde6;
+}
+
+.third-part {
+    width: 20%;
+    margin: 20px;
+    padding: 30px;
+    border-radius: 5px;
+    background-color: #f1ceff;
+    box-shadow: 1px 1px #eec1da;
+}
+
+
+.email {
+    margin-top: 50px;
+    width: 100%;
+
+
+}
+
+.email h1 {
+    text-align: center;
+}
+
+.email p {
+    text-align: center;
+}
+
+
+
+.form-submit {
+    display: flex;
+    margin: 50px;
+    justify-content: center;
+
+}
+
+.main-input {
+    background-color: #cccccc;
+    color: aliceblue;
+    padding: 10px;
+    border: none;
+    width: 300px;
+    margin-top: 100px;
+
+
+}
+
+.submission {
+    background-color: crimson;
+    color: aliceblue;
+    font-weight: bold;
+    border: none;
+    width: 100px;
+    margin-top: 100px;
+}
+
+.background {
+    position: relative;
+    height: 200px;
+    width: 50%;
+    margin: 0 auto;
+    background-color: #ffbc7a;
+
+}
+
+
 footer {
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: cadetblue;
     height: 150px;
     width: 100%;
     padding-top: 30px;
+    color: white;
 
 }
