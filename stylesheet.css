@@ -96,3 +96,67 @@ a:hover {
     color: brown;
     background-color: rgb(233, 203, 203);
 }
+
+.donate-plan {
+    margin-top: 100px;
+}
+
+.plans h1 {
+    text-align: center;
+    font-size: 40px;
+    text-align: center;
+
+
+}
+
+.plans p {
+    font-size: 15px;
+    text-align: center;
+}
+
+.boxes {
+    display: inline-flex;
+    justify-content: center;
+}
+
+
+.food {
+    height: 300px;
+    width: 20%;
+    border-radius: 5px;
+    background-color: rgb(149, 206, 206);
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.shelter {
+    height: 300px;
+    width: 20%;
+    border-radius: 5px;
+    background-color: rgb(135, 164, 139);
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.education {
+    height: 300px;
+    width: 20%;
+    border-radius: 5px;
+    background-color: rgb(131, 145, 162);
+    margin: 20px;
+    padding: 20px;
+}
+
+.food p {
+    text-align: left;
+}
+
+.education p {
+    text-align: left;
+}
+
+.shelter p {
+    text-align: left;
+}
