@@ -166,3 +166,14 @@ a:hover {
 .shelter p {
     text-align: left;
 }
+
+
+
+footer {
+    text-align: center;
+    background-color: cadetblue;
+    height: 150px;
+    width: 100%;
+    padding-top: 30px;
+
+}
